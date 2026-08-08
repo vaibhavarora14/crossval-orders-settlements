@@ -2,7 +2,7 @@
 
 A small full-stack orders and settlement workspace built for the CrossVal Backend / Full Stack Developer take-home.
 
-**Live demo:** deployment URL added after release.
+**Live demo:** [crossval-orders-settlements-hz9bpty55-varora1406s-projects.vercel.app](https://crossval-orders-settlements-hz9bpty55-varora1406s-projects.vercel.app)
 
 ## What it supports
 
